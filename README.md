@@ -1,4 +1,4 @@
-# Loopy Belief Propagation for Stereo Matching
+# Belief Propagation for Stereo Matching (Accelerated)
 A C++ implementation of Loopy Belief Propagation for stereo matching. It uses the "min-sum" variation of the algorithm and the "Accelerated" (Right-Left-Down-Up sweep) message update schedule.
 
 ## Input Image
